@@ -1,8 +1,8 @@
 package tulib
 
 import (
-	"github.com/gdamore/tcell"
-	"github.com/gdamore/tcell/termbox"
+	"github.com/glycerine/tcell_old_hacked_up"
+	"github.com/glycerine/tcell_old_hacked_up/termbox"
 	"unicode/utf8"
 
 	"github.com/glycerine/verb"

@@ -2,7 +2,7 @@ package tulib
 
 import (
 	"bytes"
-	"github.com/gdamore/tcell/termbox"
+	"github.com/glycerine/tcell_old_hacked_up/termbox"
 )
 
 func KeyToString(key termbox.Key, ch rune, mod termbox.Modifier) string {
